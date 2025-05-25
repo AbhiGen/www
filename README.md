@@ -72,9 +72,8 @@ Preparing for interviews can be overwhelming and unstructured. IntelliHire strea
 ---
 
 ## 📁 Project Structure
+
 ```
-<details>
-  <summary><strong>Click to expand full folder structure</strong></summary>
 
 AI-MOCK-INTERVIEW-BUILDVERSE/
 ├── backend/
@@ -102,11 +101,15 @@ AI-MOCK-INTERVIEW-BUILDVERSE/
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
 
-</details>
+
+
 ```
 ---
 
 ## 📁 Pages Directory Structure
+
+
+```
 
 pages/
 ├── aboutUs.css # Styles for About Us page
@@ -143,7 +146,7 @@ pages/
 ├── Upgrade.css # Pricing/upgrade page styles
 ├── Upgrade.jsx # Premium upgrade and subscription component
 
-
+```
 
 ---
 
