@@ -72,7 +72,7 @@ Preparing for interviews can be overwhelming and unstructured. IntelliHire strea
 ---
 
 ## 📁 Project Structure
-
+```
 <details>
   <summary><strong>Click to expand full folder structure</strong></summary>
 
@@ -103,7 +103,7 @@ AI-MOCK-INTERVIEW-BUILDVERSE/
 └── README.md # Project documentation
 
 </details>
-
+```
 ---
 
 ## 📁 Pages Directory Structure
