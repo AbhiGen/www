@@ -150,6 +150,35 @@ pages/
 
 ---
 
+
+
+## 💻 Tech Stack
+
+### 🔙 Backend
+- **Node.js** & **Express.js** – API and server-side logic
+- **MongoDB** – NoSQL database for user data, interview results, and feedback
+- **Clerk** – Authentication and user session management
+- **OpenAI API / Gemini API** – AI-powered dynamic question generation
+  
+### 🌐 Frontend
+- **React.js** – Component-based UI
+- **Tailwind CSS** – Responsive styling
+- **face-api.js** – Facial tracking for mock interviews (public/models)
+- **React Router** – Client-side routing
+
+### 🧠 AI & Communication
+- **Speech-to-Text API** – Voice input conversion
+- **Text-to-Speech API** – Question narration
+- **OpenAI/Gemini** – Context-aware intelligent Q&A generation
+
+### 💳 Payments
+- **RazorPay (Test Mode)** – Secure payment integration for subscription
+
+### Deployment 
+- **render** - deployment of both frontend and backend 
+
+---
+
 ## 🔧 Improvements That Can Be Made
 
 - Expand support to include **HR integrated tools** with session recording  
