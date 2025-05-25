@@ -1,4 +1,4 @@
-# 🧠 IntelliHire
+# 🧠 HireVerse
 
 **Your AI-powered mock interview platform for role-based dynamic preparation with real-time feedback, intelligent assessment, and personalized dashboard.**
 
@@ -6,15 +6,15 @@
 
 ## 📌 Project Description
 
-**IntelliHire** is an AI-powered mock interview platform that provides tailored interview experiences based on a candidate’s selected role, tech stack, and experience level. It integrates speech-to-text, text-to-speech, and AI-driven dynamic question generation to simulate real interviews.
+**HireVerse** is an AI-powered mock interview platform that provides tailored interview experiences based on a candidate’s selected role, tech stack, and experience level. It integrates speech-to-text, text-to-speech, and AI-driven dynamic question generation to simulate real interviews.
 
 Users can sign in using **Clerk authentication**, practice **DSA**, **Aptitude**, and **Verbal Reasoning** questions, and receive **question-wise** and **overall feedback** along with **score tracking** in a personalized dashboard. The platform supports **company-specific behavioral questions**, offers **practice assessments**, and includes **premium subscription tiers** with a **7-day free trial** and **test-mode payment gateway**.
 
 ---
 
-## 🧠 Why IntelliHire?
+## 🧠 Why HireVerse?
 
-Preparing for interviews can be overwhelming and unstructured. IntelliHire streamlines this by offering:
+Preparing for interviews can be overwhelming and unstructured. HireVerse streamlines this by offering:
 
 - A structured, AI-driven mock interview experience  
 - Real-time feedback and improvement tracking  
@@ -62,7 +62,7 @@ Preparing for interviews can be overwhelming and unstructured. IntelliHire strea
 
 ### 🧾 About & Footer
 - **About Us** section:
-  - Purpose of IntelliHire
+  - Purpose of HireVerse
   - How it works
   - Features breakdown
 - **Footer**:
@@ -72,6 +72,8 @@ Preparing for interviews can be overwhelming and unstructured. IntelliHire strea
 ---
 
 ## 📁 Project Structure
+
+
 
 ```
 
@@ -120,17 +122,8 @@ pages/
 ├── behaviourPage.jsx # Company-wise behavioral question UI
 ├── dashboard.css # Styles for dashboard
 ├── dashboard.jsx # Scores, feedback, and progress tracking
-├── FooterHr.css # Footer styles
-├── FooterHr.jsx # Footer component with navigation
-├── HeaderHr.css # Header styles
-├── HeaderHr.jsx # Navigation bar
 ├── howItWorks.css # Styles for How It Works page
 ├── howItWorks.jsx # Explanation of workflow
-├── hraboutus.jsx # About Us page for HR role
-├── hrInterview.css # Styles for HR interview page
-├── hrInterview.jsx # HR interview interface
-├── hrMain.css # Styles for HR dashboard
-├── hrMain.jsx # HR dashboard logic
 ├── hrOruser.css # Styles for user type selection
 ├── hrOruser.jsx # HR/User selection page
 ├── interview.css # Styles for interview session page
